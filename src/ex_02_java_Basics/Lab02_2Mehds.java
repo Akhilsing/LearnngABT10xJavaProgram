@@ -9,7 +9,7 @@ public class Lab02_2Mehds {
      public static void main (String[] args)
      but we can have without static without [] for example
      public  void main (String args)
-     and u can't run that method. that should be run using the calling
+     and u can't run that method. that can be run using the calling
      */
 }
 
