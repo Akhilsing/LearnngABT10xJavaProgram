@@ -16,7 +16,7 @@ public class Practice_02_Size_DataType {
 
         //int wrapper class is Interger
         //Range
-        System.out.println(.MIN_VALUE);
+        System.out.println(Integer.MIN_VALUE);
         System.out.println(Integer.MAX_VALUE);
 
     }
