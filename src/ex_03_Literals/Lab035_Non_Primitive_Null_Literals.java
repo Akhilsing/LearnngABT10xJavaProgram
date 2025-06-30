@@ -6,7 +6,7 @@ public class Lab035_Non_Primitive_Null_Literals {
     byte b=20;
 
     // Non Primitive data types
-    String name=null;// we can add the ll in non-primitive data types
+    String name=null;// we can add the null in non-primitive data types
 
 
 

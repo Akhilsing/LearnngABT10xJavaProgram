@@ -9,6 +9,7 @@ public class Practice_07_Student_Parameters_Variables {
     }
     // parameter we can give in method, but we can't initialization the value
     public static void par(int Height){
+
         System.out.println(Height);
     }
 }

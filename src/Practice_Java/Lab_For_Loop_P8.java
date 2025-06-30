@@ -1,5 +1,9 @@
 package Practice_Java;
-
+/*
+The pattern you've posted is a number triangle(Floyd's Triangle), where:
+Each row contains one more number than the previous row.
+The numbers increase sequentially from 1 onward.
+ */
 /* this defines the class name as Lab_For_loop_P1, which
 is the entry point to program
 */
