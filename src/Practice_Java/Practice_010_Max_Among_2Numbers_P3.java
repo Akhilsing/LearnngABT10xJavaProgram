@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Practice_010_Max_Among_2Numbers_P3 {
 
     private static int LargestAmongTwo(int a, int b) {
-        return (a>b) ? a:b;
+        return (a>b)?a:b;
 
     }
 

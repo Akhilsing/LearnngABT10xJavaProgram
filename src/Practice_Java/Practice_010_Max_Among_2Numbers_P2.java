@@ -51,7 +51,7 @@ public class Practice_010_Max_Among_2Numbers_P2 {
         //"\nLargest number among two = "
         //This is a string literal.
         //\n is an escape character that adds a newline before the text.
-        //So the output starts from a new line and then prints "Largest number among two = ".
+        //So the output 29starts from a new line and then prints "Largest number among two = ".
 
         // +
         //The string concatenation operator.

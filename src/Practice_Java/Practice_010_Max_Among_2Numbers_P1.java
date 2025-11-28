@@ -46,6 +46,9 @@ public class Practice_010_Max_Among_2Numbers_P1 {
                 //Prints the result — the largest number between the two inputs.
                 System.out.println("largest number among two numbers is " + largest);
 
+        //int MAX=(a>b) ? a:b;
+
+        // int Max= (a>b) ? (a>c? a:c) : (b>c ? b:c);
 
 
         }

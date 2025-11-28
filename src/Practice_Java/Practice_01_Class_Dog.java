@@ -5,7 +5,7 @@ package Practice_Java;
 public class Practice_01_Class_Dog {
 
     // below all are variables(Properties) for that variable value
-     String breed="German Shepard";
+    String breed="German Shepard";
     public int height= 30;
     public int weight= 35;
 

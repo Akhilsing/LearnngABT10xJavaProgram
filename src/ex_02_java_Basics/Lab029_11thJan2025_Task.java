@@ -1,6 +1,7 @@
 package ex_02_java_Basics;
 
-public class Lab029_11thJan2025_Task {
+public class
+ Lab029_11thJan2025_Task {
     public static void main(String[] args) {
         int num=9;
         /*
