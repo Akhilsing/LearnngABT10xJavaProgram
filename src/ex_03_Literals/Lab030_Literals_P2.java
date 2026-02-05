@@ -13,6 +13,7 @@ public class Lab030_Literals_P2 {
          */
 
         float x=10;
+        System.out.println(x + Li + Lit + a );
 
     }
 }

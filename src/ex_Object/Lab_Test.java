@@ -20,6 +20,8 @@ public class Lab_Test {
         Lab_Test t1= new Lab_Test();
         Lab_Test t2= new Lab_Test(10, 30);
         System.out.println(t2.j);
+        System.out.println(t1);
+        
 
     }
 }

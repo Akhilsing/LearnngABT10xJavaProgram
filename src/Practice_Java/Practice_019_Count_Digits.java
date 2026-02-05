@@ -14,8 +14,11 @@ public class Practice_019_Count_Digits {
             int r= n%10;
             n=n/10;
             count++;
+            System.out.println(r );
 
         }
         System.out.println(count);
+        sc.close();
     }
+    
 }

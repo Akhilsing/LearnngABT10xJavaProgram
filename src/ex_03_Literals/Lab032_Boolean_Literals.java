@@ -5,6 +5,10 @@ public class Lab032_Boolean_Literals {
         boolean Learning_Automation=true;
         boolean Manual_Future=false;
         // boolean literals  because we have only true and false
+        
+        System.out.println(Learning_Automation );
+        
+        System.out.println(Manual_Future );
 
 
     }
